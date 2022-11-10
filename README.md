@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gantgarrett
-- 👀 I’m interested in responsive front end web development.
-- 🌱 I’m currently learning WP plugin development
-- 💞️ I’m looking to collaborate on building responsive landing pages, email templates, websites with HTML/CSS/JS.
+- 👀 I’m interested in WordPress development.
+- 🌱 I’m currently learning plugin development.
+- 💞️ I’m looking to collaborate on building landing pages, email templates, websites with HTML/CSS/JS.
 - 📫 How to reach me garrett@garrettgant.com Twitter: @Garrtastrophe LinkedIn: https://www.linkedin.com/in/garrettgant/ 
 
 <!---
